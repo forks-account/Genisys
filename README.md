@@ -55,8 +55,8 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 # Buy me a coffee
 
-LTC - MG35ToG6g9YxwQzKcQFismyX5iNxJJx2Bg<br>
-BTC - 35ZcHyk4JWGjbyn8FxHdUrRyAAg3bhJxME
+LTC - <br>
+BTC - 
 
 # Warning
 
